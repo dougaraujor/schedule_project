@@ -9,6 +9,16 @@
       "projectName": "schedule_spring",
       "args": "",
       "envFile": "${workspaceFolder}/.env"
+    },
+    {
+      "type": "java",
+      "name": "Spring Boot-TodolistApplication<todolist>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "br.com.dougaraujor.todolist.TodolistApplication",
+      "projectName": "todolist",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
     }
   ]
 }
